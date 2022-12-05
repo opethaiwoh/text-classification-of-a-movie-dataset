@@ -1,4 +1,4 @@
-# text-classification-of-a-movie-dataset
+# Text-classification-of-a-movie-dataset
 
 ## Approach 
 - Data gathering: Access the data source and download the data. 
